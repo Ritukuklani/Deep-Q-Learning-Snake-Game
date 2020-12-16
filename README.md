@@ -1,1 +1,1 @@
-# DeepQLearningSnakeGame-DDQN-
+# Deep-Q-Learning-Snake-Game
